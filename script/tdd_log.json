@@ -66,9 +66,39 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "343cc9be039505fd42f36d8cfeab84bfd6d778c3",
     "commitName": "feat: marcador 15-15 cuando el jugador 2 marca",
     "commitTimestamp": 1772479116391,
     "testId": 7
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1772479495155,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1772479525739,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1772479793819,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: marcador 30-15 y 30-30",
+    "commitTimestamp": 1772479814899,
+    "testId": 8
   }
 ]
