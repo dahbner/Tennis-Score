@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2a5261da0d8ee36d57ad401393d3488b1b6acc84",
     "author": "dahbner",
     "commit": {
       "date": "2026-03-02T19:15:58.000Z",
       "message": "feat: implementar 15-Love c8ando jugador 1 marca",
-      "url": "https://github.com/dahbner/Tennis-Score/commit/HEAD"
+      "url": "https://github.com/dahbner/Tennis-Score/commit/2a5261da0d8ee36d57ad401393d3488b1b6acc84"
     },
     "stats": {
       "total": 3,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-03-02T19:18:35.000Z",
+      "message": "feat: marcador 15-15 cuando el jugador 2 marca",
+      "url": "https://github.com/dahbner/Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-03-02"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

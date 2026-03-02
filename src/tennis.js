@@ -2,7 +2,7 @@ function obtenerMarcador(puntosJ1, puntosJ2) {
   const puntajes = ["Love", "15"];
   
   let marcadorJ1 = puntajes[puntosJ1] || "Love";
-  let marcadorJ2 = "Love";
+  let marcadorJ2 = puntajes[puntosJ2] || "Love";
 
   return marcadorJ1 + "-" + marcadorJ2;
 }

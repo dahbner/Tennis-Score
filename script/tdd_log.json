@@ -44,9 +44,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2a5261da0d8ee36d57ad401393d3488b1b6acc84",
     "commitName": "feat: implementar 15-Love c8ando jugador 1 marca",
     "commitTimestamp": 1772478959642,
     "testId": 6
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772479068433,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1772479096574,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: marcador 15-15 cuando el jugador 2 marca",
+    "commitTimestamp": 1772479116391,
+    "testId": 7
   }
 ]
