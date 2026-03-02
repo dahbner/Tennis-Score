@@ -4,4 +4,8 @@ describe("Juego de Tenis", () => {
   it("deberia mostrar 'Love-Love' al empezar el set", () => {
     expect(obtenerMarcador(0, 0)).toEqual("Love-Love");
   });
+
+  it("deberia mostrar '15-Love' cuando el jugador 1 anota un punto", () => {
+    expect(obtenerMarcador(1, 0)).toEqual("15-Love");
+  });
 });
