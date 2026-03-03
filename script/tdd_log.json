@@ -132,9 +132,31 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9fd08878785416e6d738d7794585db834ccd2e4d",
     "commitName": "feat: implementar regla especial para mostrar Deuce en empates de 40",
     "commitTimestamp": 1772526114806,
     "testId": 10
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1772526287017,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1772526332331,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar regla para Advantage Player 1 despues del Deuce",
+    "commitTimestamp": 1772526675100,
+    "testId": 11
   }
 ]

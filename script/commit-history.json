@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "9fd08878785416e6d738d7794585db834ccd2e4d",
     "author": "dahbner",
     "commit": {
       "date": "2026-03-03T08:21:53.000Z",
       "message": "feat: implementar regla especial para mostrar Deuce en empates de 40",
-      "url": "https://github.com/dahbner/Tennis-Score/commit/HEAD"
+      "url": "https://github.com/dahbner/Tennis-Score/commit/9fd08878785416e6d738d7794585db834ccd2e4d"
     },
     "stats": {
       "total": 8,
@@ -205,6 +205,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-03-03T08:31:14.000Z",
+      "message": "feat: implementar regla para Advantage Player 1 despues del Deuce",
+      "url": "https://github.com/dahbner/Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
