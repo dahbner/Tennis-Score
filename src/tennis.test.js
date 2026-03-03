@@ -24,4 +24,8 @@ describe("Juego de Tenis", () => {
   it("deberia mostrar '40-30' cuando el jugador 1 anota su tercer punto", () => {
     expect(obtenerMarcador(3, 2)).toEqual("40-30");
   });
+
+  it("deberia mostrar 'Deuce' cuando ambos jugadores empatan a 40 (3 puntos)", () => {
+    expect(obtenerMarcador(3, 3)).toEqual("Deuce");
+  });
 });

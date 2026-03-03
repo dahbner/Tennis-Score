@@ -1,4 +1,8 @@
 function obtenerMarcador(puntosJ1, puntosJ2) {
+  if (puntosJ1 === puntosJ2 && puntosJ1 >= 3) {
+    return "Deuce";
+  }
+
   const puntajes = ["Love", "15", "30", "40"];
   
   let marcadorJ1 = puntajes[puntosJ1] || "Love";

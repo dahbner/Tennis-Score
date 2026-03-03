@@ -110,9 +110,31 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8a816d2470b35b74c7d63b66c1ba4b0561f33dad",
     "commitName": "feat: marcador 40-30 cuando el jugador 1 anota",
     "commitTimestamp": 1772525836256,
     "testId": 9
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1772525917560,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1772525997718,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar regla especial para mostrar Deuce en empates de 40",
+    "commitTimestamp": 1772526114806,
+    "testId": 10
   }
 ]
