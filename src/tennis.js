@@ -12,6 +12,10 @@ function obtenerMarcador(puntosJ1, puntosJ2) {
     return "Advantage Player 1";
   }
 
+  if (puntosJ2 >= 4 && puntosJ2 - puntosJ1 === 1) {
+    return "Advantage Player 2";
+  }
+
   const puntajes = ["Love", "15", "30", "40"];
   
   let marcadorJ1 = puntajes[puntosJ1] || "Love";
