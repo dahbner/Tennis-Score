@@ -154,9 +154,23 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1c662a854ca69bc20517eba0849c967e0510c902",
     "commitName": "feat: implementar regla para Advantage Player 1 despues del Deuce",
     "commitTimestamp": 1772526675100,
     "testId": 11
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1772526767073,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar regla Game for Player 1 para ganar el juego",
+    "commitTimestamp": 1772526898719,
+    "testId": 12
   }
 ]
