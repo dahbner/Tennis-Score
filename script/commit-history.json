@@ -266,16 +266,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "71e518d540b7e84180bd0222fd03dc18ad8def0d",
     "author": "dahbner",
     "commit": {
       "date": "2026-03-03T08:40:59.000Z",
       "message": "feat: implementar regla Game for Player 2",
-      "url": "https://github.com/dahbner/Tennis-Score/commit/HEAD"
+      "url": "https://github.com/dahbner/Tennis-Score/commit/71e518d540b7e84180bd0222fd03dc18ad8def0d"
     },
     "stats": {
       "total": 8,
       "additions": 8,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-03-03T08:50:11.000Z",
+      "message": "feat: bloquear botones al finalizar el juego y agregar boton de reiniciar",
+      "url": "https://github.com/dahbner/Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 15,
       "deletions": 0,
       "date": "2026-03-03"
     },

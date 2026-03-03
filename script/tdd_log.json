@@ -212,9 +212,15 @@
     "testId": 14
   },
   {
-    "commitId": "HEAD",
+    "commitId": "71e518d540b7e84180bd0222fd03dc18ad8def0d",
     "commitName": "feat: implementar regla Game for Player 2",
     "commitTimestamp": 1772527259957,
     "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: bloquear botones al finalizar el juego y agregar boton de reiniciar",
+    "commitTimestamp": 1772527812741,
+    "testId": 15
   }
 ]
