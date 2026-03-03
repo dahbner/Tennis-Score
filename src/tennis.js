@@ -4,6 +4,10 @@ function obtenerMarcador(puntosJ1, puntosJ2) {
     return "Game for Player 1";
   }
 
+  if (puntosJ2 >= 4 && puntosJ2 - puntosJ1 >= 2) {
+    return "Game for Player 2";
+  }
+
   if (puntosJ1 === puntosJ2 && puntosJ1 >= 3) {
     return "Deuce";
   }

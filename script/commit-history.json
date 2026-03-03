@@ -247,12 +247,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3fbbf146db67d70478e29701118f23d423826dc0",
     "author": "dahbner",
     "commit": {
       "date": "2026-03-03T08:38:05.000Z",
       "message": "feat: implementar regla para Advantage Player 2 despues del Deuce",
-      "url": "https://github.com/dahbner/Tennis-Score/commit/HEAD"
+      "url": "https://github.com/dahbner/Tennis-Score/commit/3fbbf146db67d70478e29701118f23d423826dc0"
     },
     "stats": {
       "total": 12,
@@ -262,6 +262,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-03-03T08:40:59.000Z",
+      "message": "feat: implementar regla Game for Player 2",
+      "url": "https://github.com/dahbner/Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
